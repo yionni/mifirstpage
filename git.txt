@@ -1,0 +1,3 @@
+Con el comando "git init" lo que hacemos es iniciar el workin directory
+
+Con el comando "git add + el archivo o . subimos tood el es staging area
